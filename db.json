@@ -1,0 +1,7 @@
+{
+  "users": [
+    { "id": 1, "status": "verified" },
+    { "id": 2, "status": "verified" },
+    { "id": 3, "status": "unverified" }
+  ],
+}
